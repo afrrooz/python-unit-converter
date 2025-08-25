@@ -23,5 +23,5 @@ The project is organized as a `converter` package with two modules:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-unit-converter.git
+   git clone https://github.com/afrrooz/python-unit-converter.git
    cd python-unit-converter
